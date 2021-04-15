@@ -36,6 +36,8 @@
 - pic
 - unfer
 
+все утилиты можно найти на сайте https://www.typescriptlang.org/docs/handbook/utility-types.html
+
 **Moc Data**
 
 - генерация масива объектов
