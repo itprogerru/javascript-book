@@ -1,4 +1,4 @@
-example multi endpoint axios 
+**Example multi endpoint axios** 
 
 ```javascript
 const interseptorRequest = () => {}
@@ -26,4 +26,6 @@ const request = {
   endPoint1: fun1(),
   endPoint2: fun1()
 };
+
+request.endPoint1.get('test2');
 ```
